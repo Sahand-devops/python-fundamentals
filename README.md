@@ -21,7 +21,3 @@ This repository is a collection of Python exercises and small projects that refl
 - Python 3
 - Git
 - Visual Studio Code
-
-## Notes
-
-The material is intended to showcase practical learning and progression rather than polished production code.
